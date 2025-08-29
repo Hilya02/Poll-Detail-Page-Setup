@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Poll Application",
+  "description": "A dynamic polling application that allows users to view polls, cast their votes, and see real-time results visualized in charts. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
